@@ -20,3 +20,8 @@ dupoff --fasta <input.fasta> --out <output.fasta>
 ```bash
 python3 -m pip install dist/dupoff-0.0.1.tar.gz
 ```
+
+## Uninstall
+```bash
+python3 -m pip uninstall dupoff
+```
