@@ -1,0 +1,9 @@
+README.md
+setup.py
+dupoff/df.py
+dupoff.egg-info/PKG-INFO
+dupoff.egg-info/SOURCES.txt
+dupoff.egg-info/dependency_links.txt
+dupoff.egg-info/entry_points.txt
+dupoff.egg-info/requires.txt
+dupoff.egg-info/top_level.txt

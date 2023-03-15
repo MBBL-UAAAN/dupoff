@@ -1,0 +1,19 @@
+Metadata-Version: 1.2
+Name: dupoff
+Version: 0.0.1
+Summary: Takes off duplicate sequences from fasta file and writes unique sequences to new fasta file
+Home-page: https://www.github.com/exseivier/not-alike
+Author: Javier Montalvo
+Author-email: buitrejma@gmail.com
+License: GNU General Public License v3 or later (GPLv3+)
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Requires-Python: >=3.9
