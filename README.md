@@ -8,5 +8,5 @@ Takes off duplicate sequences from fasta file
 dupoff --help
 
 # to run it as command
-dupoff --fasta <input.fasta> --out <output.fasta
+dupoff --fasta <input.fasta> --out <output.fasta>
 ```
